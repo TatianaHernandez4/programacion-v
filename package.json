@@ -1,0 +1,16 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "app": "node app.js",
+   "sum": "node operaciones/sum.js",
+   "sub": "node operaciones/basic/sub.js"
+   
+   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
